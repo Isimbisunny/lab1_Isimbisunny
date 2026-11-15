@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+transit_session.log
+transit_session.log
