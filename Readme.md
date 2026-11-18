@@ -72,7 +72,7 @@ Each road segment represents 100 meters.
 The project was tested through:
 
 - Python syntax compilation.
-- Invalid road-sign validation.
+- Invalid road sign validation.
 - Adding, inserting, and replacing road signs.
 - Checking road segment and sign counts.
 - Completing the full driving simulation.
@@ -82,5 +82,3 @@ The original 34-segment road was successfully completed, with the car arriving a
 ## Author
 
 GitHub: [Isimbisunny](https://github.com/Isimbisunny)
-
-Developed as part of ALU's Individual Coding Lab 1.
